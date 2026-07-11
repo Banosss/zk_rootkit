@@ -35,7 +35,7 @@ lsmod | grep zk_rootkit
 sudo rmmod zk_rootkit
 ```
 
-<img width="332" height="45" alt="image" src="https://github.com/user-attachments/assets/fe076216-9747-4581-a4f4-e590a2cb1b0a" />
+<img width="332" height="45" alt="image" src="5.png" />
 
 After the first time you running the whole process you could use the ./reload.sh to reboot the rootkit to get the result!
 Good luck with your journey! hehe
