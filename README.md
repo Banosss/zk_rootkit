@@ -38,8 +38,8 @@ sudo rmmod zk_rootkit
 <img width="332" height="45" alt="image" src="4.png" />
 
 ```bash
-After the first time you running the whole process you could use the ./reload.sh to reboot the rootkit to get the result!
-Good luck with your journey! hehe
+After the first running process you could use the ./reload.sh to reboot the rootkit to get the result!
+Good luck with your journey! hehe 👍
 ```
 
 <img width="702" height="311" alt="image" src="5.png" />
